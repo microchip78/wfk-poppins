@@ -1,0 +1,26 @@
+{
+  "name": "wfk-poppins",
+  "version": "1.0.0",
+  "description": "WebFont Kit for Google Fonts - Poppins Family",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microchip78/wfk-poppins.git"
+  },
+  "keywords": [
+    "WebFont",
+    "Kit",
+    "Google",
+    "Fonts",
+    "Poppins"
+  ],
+  "author": "microchip78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microchip78/wfk-poppins/issues"
+  },
+  "homepage": "https://github.com/microchip78/wfk-poppins#readme"
+}
